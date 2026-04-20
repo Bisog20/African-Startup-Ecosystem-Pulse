@@ -1,4 +1,4 @@
-<img width="735" height="951" alt="image" src="https://github.com/user-attachments/assets/515088c7-1bfc-43f0-97f4-86a0d1eb7890" /># African-Startup-Ecosystem-Pulse
+# African-Startup-Ecosystem-Pulse
 
 An interactive Power BI dashboard analyzing startup funding trends across Africa from 2022 to 2024.
 
